@@ -5,7 +5,7 @@
   background-color: var(--clr-bg);
 }
 
-.light {
+.dark {
   --clr-bg: #fcfcfc;
   --clr-bg-alt: #fff;
   --clr-fg: #555;
@@ -14,7 +14,7 @@
   --shadow: rgba(100, 100, 111, 0.5) 0px 7px 29px 0px;
 }
 
-.dark {
+.light {
   --clr-bg: #23283e;
   --clr-bg-alt: #2a2f4c;
   --clr-fg: #bdbddd;
