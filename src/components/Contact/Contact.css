@@ -1,0 +1,19 @@
+.contact-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+  padding-top: 15em;
+  padding-bottom: 8em;
+}
+
+.contact-p {
+  font-size: 2em;
+}
+
+.contact-text a {
+  font-size: 1.7em;
+  font-weight: bold;
+  text-decoration: underline;
+}
