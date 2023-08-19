@@ -40,10 +40,10 @@ const skills = [
   "CSS",
   "JavaScript",
   "TypeScript",
-  "React",
+  "ReactJs",
   "Angular",
-  "Jest",
-  "Mocha",
+  "ExpressJs",
+  "NodeJs",
 ];
 
 const contact = {

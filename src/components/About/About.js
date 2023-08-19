@@ -33,7 +33,7 @@ const About = () => {
                 aria-label="instagram"
                 className="link link--icon"
                 target="_blank"
-                rel="noopener"
+                rel="noreferrer"
               >
                 <Instagram />
               </a>
@@ -45,7 +45,7 @@ const About = () => {
                 aria-label="twitter"
                 className="link link--icon"
                 target="_blank"
-                rel="noopener"
+                rel="noreferrer"
               >
                 <Twitter />
               </a>
@@ -57,7 +57,7 @@ const About = () => {
                 aria-label="github"
                 className="link link--icon"
                 target="_blank"
-                rel="noopener"
+                rel="noreferrer"
               >
                 <GitHubIcon />
               </a>
