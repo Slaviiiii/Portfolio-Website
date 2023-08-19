@@ -4,6 +4,7 @@ import Header from "./components/Header/Header";
 import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
 import Skills from "./components/Skills/Skills";
+import Certificates from "./components/Certificates/Certificates";
 import Contact from "./components/Contact/Contact";
 import ScrollToTop from "./components/ScrollToTop/ScrollToTop";
 import "./App.css";
@@ -18,6 +19,7 @@ const App = () => {
       <main>
         <About />
         <Skills />
+        <Certificates />
         <Projects />
         <Contact />
       </main>
