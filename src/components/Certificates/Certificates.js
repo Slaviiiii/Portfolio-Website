@@ -7,7 +7,7 @@ import htmlAndCss from "../../assets/certificates/HtmlAndCss.jpg";
 
 const Certificates = () => {
   return (
-    <section className="certification">
+    <section id="certificates" className="certification">
       <h2>CERTIFICATIONS</h2>
       <div className="certificates-content">
         <div className="certificates-issuer">
