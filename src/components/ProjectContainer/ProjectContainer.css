@@ -1,14 +1,25 @@
 .project {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   padding: 2em;
   margin: 0 auto;
   text-align: center;
   box-shadow: var(--shadow);
   transition: transform 0.2s linear;
   margin-bottom: 2em;
+  border-radius: 3em;
 }
 
 .project:hover {
   transform: translateY(-7px);
+}
+
+img {
+  max-width: 16em;
+  min-height: 11em;
+  margin-top: 2em;
+  border-radius: 3em;
 }
 
 .project__description {

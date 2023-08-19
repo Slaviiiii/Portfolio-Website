@@ -17,3 +17,10 @@
   font-weight: bold;
   text-decoration: underline;
 }
+
+@media (max-width: 390px) {
+  .contact-text p {
+    font-size: 1.5em;
+    margin: 0 auto;
+  }
+}
