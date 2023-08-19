@@ -2,6 +2,8 @@
 
 Clean portfolio showcasing my knowledge, certificates from my cources at SoftUni and my social media profiles. It was built with a startup from **rajshekhar26** and modified to match my expectations.
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
