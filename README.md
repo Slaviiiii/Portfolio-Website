@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Clean portfolio showcasing my knowledge, certificates from my cources at SoftUni and my social media profiles. It was built with a startup from **rajshekhar26** and modified to match my expectations.
+Clean portfolio showcasing my knowledge, certificates from my cources at SoftUni and my social media profiles. It was built with a startup from **rajshekhar26** and modified to match my expectations
+
+This is the link to the deployed version: https://portfolio-website-one-steel.vercel.app
 
 ![image](https://github.com/Slaviiiii/portfolio-website/assets/106228555/a13474bb-64cc-48fb-995b-c309b9502132)
 
