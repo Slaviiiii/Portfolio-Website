@@ -3,7 +3,7 @@ import "./Certificates.css";
 
 import react from "../../assets/certificates/React.jpg";
 import angular from "../../assets/certificates/Angular.jpg";
-import htmlAndCss from "../../assets/certificates/HtmlAndCss.jpg";
+import softuniFest from "../../assets/certificates/Softuni-Fest.jpg";
 
 const Certificates = () => {
   return (
@@ -41,11 +41,10 @@ const Certificates = () => {
           </li>
           <li>
             <a
-              href="https://softuni.bg/certificates/details/174761/0f433a98"
-              target="_blank"
+              href="#"
             >
-              <p>Html & Css</p>
-              <img src={htmlAndCss} alt="Html and Css Certificate" />
+              <p>Softuni Fest</p>
+              <img src={softuniFest} alt="Softuni Fest" />
             </a>
           </li>
         </ul>
