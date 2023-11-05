@@ -41,6 +41,7 @@ const skills = [
   "JavaScript",
   "TypeScript",
   "ReactJs",
+  "Next js",
   "Angular",
   "ExpressJs",
   "NodeJs",
