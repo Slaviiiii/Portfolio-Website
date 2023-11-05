@@ -32,19 +32,19 @@ const Certificates = () => {
           </li>
           <li>
             <a
+              href="#"
+            >
+              <p>Softuni Fest</p>
+              <img src={softuniFest} alt="Softuni Fest" />
+            </a>
+          </li>      
+          <li>
+            <a
               href="https://softuni.bg/certificates/details/168575/21d15f5d"
               target="_blank"
             >
               <p>React</p>
               <img src={react} alt="React Certificate" />
-            </a>
-          </li>
-          <li>
-            <a
-              href="#"
-            >
-              <p>Softuni Fest</p>
-              <img src={softuniFest} alt="Softuni Fest" />
             </a>
           </li>
         </ul>
