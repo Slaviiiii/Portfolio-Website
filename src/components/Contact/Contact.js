@@ -5,7 +5,8 @@ const Contact = () => {
   return (
     <section className="contact-text" id="contact">
       <h1>Contact</h1>
-      <p className="contact-p">You can contact me at karaslavovslavi@gmail.com</p>
+      <p className="contact-p">You can contact me at</p>
+      <p>karaslavovslavi@gmail.com</p>
     </section>
   );
 };
