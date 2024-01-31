@@ -48,7 +48,7 @@ const skills = [
 ];
 
 const contact = {
-  email: "slavi@mail.com",
+  email: "karaslavovslavi@mail.com",
 };
 
 export { about, projects, skills, contact };
