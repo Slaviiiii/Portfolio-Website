@@ -1,6 +1,6 @@
 const about = {
   name: "Slavi Karaslavov",
-  role: "Front-End dev",
+  role: "Fullstack dev",
   social: {
     github: "https://github.com/Slaviiiii",
     instagram: "https://www.instagram.com/slavi_karaslavov_08/",
